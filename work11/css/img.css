@@ -1,0 +1,21 @@
+.imgage
+{
+	float: left;
+	border: 1px solid #ccc;
+	margin: 2px;
+}
+.desc{font: 20px '微软雅黑';color: #666;text-align: center;}
+div.imgage img
+{
+	display: inline;
+
+	border: 1px solid #bebebe;
+	width: 260px;
+	height: 160px;
+}
+div.imgage a:hover img
+{
+	border: 1px solid #333;
+	opacity:1;
+}
+a:link img{opacity: 0.5}
